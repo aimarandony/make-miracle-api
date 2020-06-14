@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.zip.DataFormatException;
 
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = {"http://localhost:4200","https://makemiracle.netlify.app"})
 @RestController
 @RequestMapping("/app")
 public class EstudianteControllers {
